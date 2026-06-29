@@ -1,4 +1,4 @@
-# HR Employee Attrition Dashboard
+# HR Employee Attrition Dashboard using Power BI
 
 ## Project Overview
 
